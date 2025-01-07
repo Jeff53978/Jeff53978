@@ -1,4 +1,6 @@
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeff53978&theme=vue" alt="jeff53978" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff53978&layout=compact" alt="jeff53978" /></p>
+
 
 ## About Me
 
