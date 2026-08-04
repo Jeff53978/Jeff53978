@@ -1,5 +1,4 @@
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeff53978&theme=vue" alt="jeff53978" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff53978&layout=compact" alt="jeff53978" /></p>
+[![Stats](https://github-readme-activity-graph.vercel.app/graph?username=Jeff53978&theme=tokyo-midnight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## About Me
