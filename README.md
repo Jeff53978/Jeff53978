@@ -1,4 +1,4 @@
-[![Stats](https://github-readme-activity-graph.vercel.app/graph?username=Jeff53978&theme=tokyo-midnight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Stats](https://github-readme-activity-graph.vercel.app/graph?username=Jeff53978&theme=tokyo-night)
 
 
 ## About Me
