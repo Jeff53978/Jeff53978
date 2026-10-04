@@ -1,4 +1,4 @@
-![Stats](https://github-readme-activity-graph.vercel.app/graph?username=Jeff53978&theme=tokyo-night)
+# Account moved to selfhosted git, check for up-to-date projects [new page](https://git.snikker.net/Jeff53978)
 
 
 ## About Me
